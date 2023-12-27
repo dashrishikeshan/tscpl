@@ -252,3 +252,19 @@ h6,
 .blog-item:hover img {
     transform: scale(1.1);
 }
+
+@media (max-width: 906px) {
+        .logo-alt{
+          font-size: 18px;
+        /* font-weight: 500 !important; */
+    }
+
+   .nab-btn-01{
+    margin-left : 40%;
+    margin-top: 2%;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+   }
+}
+
