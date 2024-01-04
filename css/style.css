@@ -280,7 +280,10 @@ h6,
           font-size: 18px;
         /* font-weight: 500 !important; */
     }
-
+img{
+    width: auto;
+    height: auto;
+}
    .nab-btn-01{
     margin-left : 40%;
     margin-top: 2%;
